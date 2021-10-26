@@ -3,19 +3,19 @@
   "description": "A test pwa app.",
   "start_url": "/index.html",
   "icons": [{
-      "src": "https://testpwa.github.io/icons/icon16x16.png",
+      "src": "/icons/icon16x16.png",
       "sizes": "16x16"
     },
     {
-      "src": "https://testpwa.github.io/icons/icon48x48.png",
+      "src": "/icons/icon48x48.png",
       "sizes": "48x48"
     },
     {
-      "src": "https://testpwa.github.io/icons/icon60x60.png",
+      "src": "/icons/icon60x60.png",
       "sizes": "60x60"
     },
     {
-      "src": "https://testpwa.github.io/icons/icon128x128.png",
+      "src": "/icons/icon128x128.png",
       "sizes": "128x128"
   }],
   "b2g_features": {
