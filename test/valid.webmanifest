@@ -1,0 +1,27 @@
+{
+  "name": "hellopwa",
+  "description": "A test pwa app.",
+  "start_url": "/test/index.html",
+  "icons": [{
+      "src": "img/icon16x16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "img/icon48x48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/icon60x60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "img/icon128x128.png",
+      "sizes": "128x128"
+  }],
+  "b2g_features": {
+    "developer": {
+      "name": "Seinlin",
+      "url": "http://testpwa.github.io"
+    }
+  }
+}
